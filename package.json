@@ -1,0 +1,24 @@
+{
+  "name": "krandizkeren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krandiz/krandizkeren.git"
+  },
+  "author": "krendiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krandiz/krandizkeren/issues"
+  },
+  "homepage": "https://github.com/krandiz/krandizkeren#readme",
+  "dependencies": {
+    "tea-bodoh": "^1.0.0",
+    "tea-majapahit": "^1.0.0",
+    "una-tea": "^1.0.0"
+  }
+}
